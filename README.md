@@ -1,2 +1,3 @@
 # experiments_with_python
-A collection of python projects
+
+A collection of Python projects
