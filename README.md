@@ -1,6 +1,5 @@
 # experiments_with_python
 
-### Description
 
 A collection of Python projects
 
