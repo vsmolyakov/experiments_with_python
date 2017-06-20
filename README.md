@@ -1,7 +1,14 @@
 # experiments_with_python
 
+### Description
+
 A collection of Python projects
 
 1. Machine Learning [[ipynb](./chp01/)]  
-2. Computer Vision [[ipynb](./chp02/)]
+2. Computer Vision  [[ipynb](./chp02/)]  
+3. Optimization     [[ipynb](./chp03/)]  
+4. Finance          [[ipynb](./chp04/)]  
 
+### Dependencies
+
+Python 2.7
