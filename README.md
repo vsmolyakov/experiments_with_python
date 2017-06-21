@@ -10,4 +10,6 @@ A collection of Python projects
 
 ### Dependencies
 
-Python 2.7
+Python 2.7  
+sklearn 0.18  
+
