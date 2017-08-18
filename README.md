@@ -12,4 +12,6 @@ A collection of Python projects
 
 Python 2.7  
 sklearn 0.18  
+PyMC 3.1
+TensorFlow 1.0.1
 
